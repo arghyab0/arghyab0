@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://im5.ezgif.com/tmp/ezgif-5-e018d97524.gif)
+![](https://github.com/arghyab0/arghyab0/blob/ab0f3e34e9a9d0d436a35c138c5e3ea4d9505b92/banner.gif)
